@@ -1,0 +1,21 @@
+h1 {
+    color: rgba(15,155,100,0.5);
+    /*border-color: red;*/
+    /*border-width: 5px;*/
+    /*border-style: solid;*/
+
+    border: 5px solid purple;
+
+}
+
+h4  {
+    /*background: rbg(255,100,80);*/
+    border: 10x dashed blue;
+}
+
+body {
+    background: #ff54ea;
+    /*background: url("http://orig13.deviantart.net/c4d3/f/2010/136/b/d/quick_background_by_pulsatingshadow.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+}

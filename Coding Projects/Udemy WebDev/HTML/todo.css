@@ -1,0 +1,20 @@
+body {
+    background: #9f4241;
+}
+
+li {
+    border: 2px solid green;
+}
+
+#test {
+    color: #147fc4;
+    background: #5b5424;
+}
+
+.blackout {
+    background: #000;
+}
+
+.completed {
+    text-decoration: line-through;
+}

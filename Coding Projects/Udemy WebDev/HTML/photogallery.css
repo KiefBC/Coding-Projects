@@ -1,0 +1,16 @@
+img {
+    float: left;
+    width: 30%;
+    margin:1.66%;
+}
+
+div {
+    font-family: "Architects Daughter";
+    font-size: 200%;
+    margin:1.66%;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 3px solid #F1F1F1;
+    width: 15%;
+    padding-bottom: 5px;
+}
